@@ -3,4 +3,4 @@ from .models import Movie
 
 # Register your models here.
 
-admin.site.register(Movie,object)
+admin.site.register(Movie)
